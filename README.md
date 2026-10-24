@@ -2,6 +2,12 @@
 
 Een lichte, portable muziekmaker: zet loops op meerdere sporen en maak je eigen nummers.
 
+## 🎬 Uitlegvideo
+
+[![Uitlegvideo DraveSound](https://dravenlock.nl/video/DraveSound.jpg)](https://dravenlock.nl/video/DraveSound.mp4)
+
+[▶ Bekijk de uitlegvideo](https://dravenlock.nl/video/DraveSound.mp4) (ongeveer 2 minuten, Nederlands)
+
 *Categorie: Media en creatief · versie 0.33.2*
 
 ## ⬇️ Downloaden (Windows, geen Python nodig)
